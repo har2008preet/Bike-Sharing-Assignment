@@ -42,4 +42,4 @@ We have created a linear regression model to calculate the cnt by independent va
 
 
 ## Contact
-Created by [@har2008preet](https://github.com/har2008preet/Bike-Sharing-Assignment)] - Do not contact me!
+Created by [@har2008preet](https://github.com/har2008preet/Bike-Sharing-Assignment) - Do not contact me!
